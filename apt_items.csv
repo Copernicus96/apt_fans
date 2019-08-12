@@ -1,0 +1,23 @@
+Time,Item,State
+2019/05/22 14:49,Lower Fan,1
+2019/05/22 14:49,Upper Fan,1
+2019/05/22 14:49,Thermostat,75
+2019/05/22 18:00,Lower Fan,0
+2019/06/04 0:00,Lower Fan,1
+2019/06/04 0:00,Upper Fan,0
+2019/06/13 0:00,Lower Fan,0
+2019/06/18 18:15,Lower Fan,1
+2019/06/18 18:15,Upper Fan,1
+2019/06/19 22:45,Thermostat,74
+2019/06/20 9:30,Thermostat,78
+2019/06/30 15:00,Thermostat,76
+2019/06/30 15:00,Lower Fan,0
+2019/06/30 15:00,Upper Fan,0
+2019/06/30 18:00,Thermostat,75
+2019/07/01 21:15,Lower Fan,1
+2019/07/01 22:00,Lower Fan,0
+2019/07/03 18:45,Thermostat,78
+2019/07/06 15:55,Thermostat,76
+2019/07/06 23:45,Thermostat,75
+2019/07/10 12:50,Lower Fan,1
+2019/07/10 12:50,Upper Fan,1
